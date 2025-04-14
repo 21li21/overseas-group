@@ -242,7 +242,6 @@ graph TD
 - python: 3.9+
 - dependencies:
   - snscrape>=0.4.3
-  - transformers[torch]==4.26.0
   - pandas>=1.4.0
 - latex:
   - texlive-full
